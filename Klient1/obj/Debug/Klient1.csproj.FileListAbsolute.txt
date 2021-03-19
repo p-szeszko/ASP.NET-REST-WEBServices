@@ -1,0 +1,7 @@
+E:\Semestr 6\RSI\Lista5\REST_RSI\Klient1\bin\Debug\Klient1.exe.config
+E:\Semestr 6\RSI\Lista5\REST_RSI\Klient1\bin\Debug\Klient1.exe
+E:\Semestr 6\RSI\Lista5\REST_RSI\Klient1\bin\Debug\Klient1.pdb
+E:\Semestr 6\RSI\Lista5\REST_RSI\Klient1\obj\Debug\Klient1.csprojAssemblyReference.cache
+E:\Semestr 6\RSI\Lista5\REST_RSI\Klient1\obj\Debug\Klient1.csproj.CoreCompileInputs.cache
+E:\Semestr 6\RSI\Lista5\REST_RSI\Klient1\obj\Debug\Klient1.exe
+E:\Semestr 6\RSI\Lista5\REST_RSI\Klient1\obj\Debug\Klient1.pdb

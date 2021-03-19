@@ -1,0 +1,6 @@
+E:\Semestr 6\RSI\Lista5\REST_RSI\MojWebService\bin\MojWebService.dll.config
+E:\Semestr 6\RSI\Lista5\REST_RSI\MojWebService\bin\MojWebService.dll
+E:\Semestr 6\RSI\Lista5\REST_RSI\MojWebService\bin\MojWebService.pdb
+E:\Semestr 6\RSI\Lista5\REST_RSI\MojWebService\obj\Debug\MojWebService.csproj.CoreCompileInputs.cache
+E:\Semestr 6\RSI\Lista5\REST_RSI\MojWebService\obj\Debug\MojWebService.dll
+E:\Semestr 6\RSI\Lista5\REST_RSI\MojWebService\obj\Debug\MojWebService.pdb
